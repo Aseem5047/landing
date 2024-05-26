@@ -22,7 +22,7 @@ const Navbar = () => {
 				>
 					<img src={logo} alt="logo" className="w-9 h-9 object-contain " />
 					<p className="text-black text-[18px] font-bold cursor-pointer flex justify-center align-center gap-1 ">
-						Aseem <span className="text-[#03a9f4f0]">Gupta</span>
+						Enriched <span className="text-[#03a9f4f0]">Care</span>
 					</p>
 				</Link>
 				<ul className="list-none hidden sm:flex flex-row gap-10">
