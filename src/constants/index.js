@@ -136,10 +136,10 @@ const testimonials = [
 
 // CAMP SECTION
 export const PEOPLE_URL = [
-    'src/assets/person-1.png',
-    'src/assets/person-2.png',
-    'src/assets/person-3.png',
-    'src/assets/person-4.png',
+    '/assets/person-1.png',
+    '/assets/person-2.png',
+    '/assets/person-3.png',
+    '/assets/person-4.png',
 ];
 
 // FEATURES SECTION
@@ -204,11 +204,11 @@ export const FOOTER_CONTACT_INFO = {
 export const SOCIALS = {
     title: 'Social',
     links: [
-        'src/assets/facebook.svg',
-        'src/assets/instagram.svg',
-        'src/assets/twitter.svg',
-        'src/assets/youtube.svg',
-        'src/assets/wordpress.svg',
+        '/assets/facebook.svg',
+        '/assets/instagram.svg',
+        '/assets/twitter.svg',
+        '/assets/youtube.svg',
+        '/assets/wordpress.svg',
     ],
 };
 
