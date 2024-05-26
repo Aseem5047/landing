@@ -29,7 +29,7 @@ const About = () => {
 				variants={slideIn("left", "tween", 0.2, 1)}
 				className="w-full"
 			>
-				<img src="src/assets/camp.svg" alt="camp" />
+				<img src="/assets/camp.svg" alt="camp" className="w-10 lg:w-[50px]" />
 				<p className="uppercase regular-18 -mt-1 mb-3 text-primary">
 					We are here for you
 				</p>
