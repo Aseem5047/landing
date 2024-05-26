@@ -47,7 +47,7 @@ const Hero = ({}) => {
 								to="/about"
 								className="flex items-center justify-center gap-2 hover:text-primary"
 							>
-								<img src="/src/assets/play.svg" alt="About" />
+								<img src="/assets/play.svg" alt="About" />
 								How We Work ?
 							</Link>
 						</div>
