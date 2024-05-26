@@ -10,7 +10,7 @@ const CampSite = ({ backgroundImage, title, subtitle, peopleJoined }) => {
 				<div className="flexCenter gap-4">
 					<div className="rounded-full bg-primary p-4">
 						<img
-							src="src/assets/folded-map.svg"
+							src="/assets/folded-map.svg"
 							alt="map"
 							width={28}
 							height={28}
@@ -72,7 +72,7 @@ const Camp = () => {
 						adventure
 					</p>
 					<img
-						src="src/assets/quote.svg"
+						src="/assets/quote.svg"
 						alt="camp-2"
 						width={186}
 						height={219}
